@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-<img src="localhost_62032_(Pixel 2).png"
+<img src="Screenshot_1674287254.png"
      alt="Markdown Monster icon"
      height="500em" />
      
